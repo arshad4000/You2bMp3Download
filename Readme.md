@@ -9,12 +9,12 @@ Google Chrome
 
 ### Installing
 
-Download You2bMp3Download.crx file
-1) Go to https://github.com/arshad4000/You2bMp3Download/blob/master/You2bMp3Download.crx
-2) Click on Download button
+Download You2bMp3Download.crx file  
+1) Go to https://github.com/arshad4000/You2bMp3Download/blob/master/You2bMp3Download.crx  
+2) Click on Download button  
 
-Once downloaded, drag and drop the file from your download location onto chrome.
-Click 'Add extension' to install it.
+Once downloaded, drag and drop the file from your download location onto chrome.  
+Click 'Add extension' to install it.  
 
 
 ## Authors
